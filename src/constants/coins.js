@@ -50,6 +50,11 @@ export default [
         url: '../?coin=zec',
     },
     {
+        id: 'nix',
+        coinName: 'NIX',
+        url: '../?coin=nix',
+    },
+    {
         id: 'xem',
         coinName: 'NEM',
         url: 'https://nem.io/downloads/',
